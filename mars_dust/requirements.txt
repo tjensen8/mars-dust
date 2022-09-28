@@ -1,0 +1,7 @@
+ipykernel
+pandas==1.5.0
+tensorflow==2.10.0
+scikit-learn==1.1.2
+scipy==1.9.1
+matplotlib==3.6.0
+seaborn==0.12.0
